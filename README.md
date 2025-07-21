@@ -118,4 +118,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  07/18/2025 Login URLs
+
+
+Update: Updated design pattern reference links
