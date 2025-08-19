@@ -126,4 +126,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  08/13/2025 url is now functioning and operational
+
+
+Update:  19 August 2025 Links resolved
