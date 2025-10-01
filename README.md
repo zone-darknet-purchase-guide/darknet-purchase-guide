@@ -1,4 +1,4 @@
-<img src="/visuals/overlay.webp" width="200">
+<img src="/assets/logo.png" width="200">
 
 # Darknet Purchase Guide: Your Step-by-Step Security Checklist
 
@@ -32,17 +32,10 @@ These sites are not available on the clearnet - [Download the Tor Browser!](http
 
 #### Darknet Markets
 
-*   [Abacus - Market](http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion) - `http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion`
-*   [Archetyp](@archetyp) - `http://arch3pmxcxnftg6kdf3tzyfr5p7xof6b7psxjqtk635egp4j5qwdudqd.onion`
-*   [DarkDock - Market](http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion) - `http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion`
-*   [Dark Matter - Market](http://ytbzy2nljonwcp76o4yyccmrv64ysbjejnwtnpumqcrlkoa7pmpomeqd.onion) - `http://ytbzy2nljonwcp76o4yyccmrv64ysbjejnwtnpumqcrlkoa7pmpomeqd.onion`
-*   [DrugHub - Market](http://ys4fenuwwagecir4avgajycoozdmyn2prxbkeq6vngtr7bvbe6pdt6qd.onion) - `http://ys4fenuwwagecir4avgajycoozdmyn2prxbkeq6vngtr7bvbe6pdt6qd.onion`
-*   [Elysium - Market](http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion) - `http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion`
-*   [Flugsvamp - 4.0 (Sweden)](http://ikhpggtz3iv6gfebiqagmb4zto2e6xepocqjii3yvkrp27jwzlds2lqd.onion) - `http://ikhpggtz3iv6gfebiqagmb4zto2e6xepocqjii3yvkrp27jwzlds2lqd.onion`
-*   [MGM Grand - Market](http://pu2rsoo3kw6palhiod6zkilf46oms5xw2jfsirubgz2x7owmboylbsyd.onion) - `http://pu2rsoo3kw6palhiod6zkilf46oms5xw2jfsirubgz2x7owmboylbsyd.onion`
+*   [BlackOps - Market](http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion) - `http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion`
+*   [DrugHub - Market](http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion) - `http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion`
 *   [Nexus - Market](http://nexusxsx6orlzngdmebxoglwk6xm7ceglmljaujxqgbwyrsobm6gt6ad.onion) - `http://nexusxsx6orlzngdmebxoglwk6xm7ceglmljaujxqgbwyrsobm6gt6ad.onion`
-*   [Torzon Market](http://torzon6kho72sh25do42n7hxbf7uzwze4c6pf5dyrd2xrly5vaqve5ad.onion) - `http://torzon6kho72sh25do42n7hxbf7uzwze4c6pf5dyrd2xrly5vaqve5ad.onion`
-*   [Vortex - Market](http://vh3cljhzsk46awmrohty2vqgfvalsu7pba46c5xunoew6nijvbzrueqd.onion) - `http://vh3cljhzsk46awmrohty2vqgfvalsu7pba46c5xunoew6nijvbzrueqd.onion`
+*   [Torzon Market](http://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion) - `http://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion`
 *   [We-The North Canada](http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion) - `http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion`
 
 ## Purchasing: The Secure Path
@@ -115,21 +108,3 @@ To access darknet markets, use their official onion URLs. Always ensure you’re
 
 By following this guide, you are equipped to shop securely on the darknet. Remember to verify links and put security first!
 Plase contribute and add stars to this repo.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Update:  12 September 2025
